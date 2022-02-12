@@ -26,7 +26,6 @@ SECRET_KEY = '6e456fz)sav)m4_&aiqx&9_zx6h6=5(2*=6uu)65z*&6pv&xxw'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'ribab.pythonanywhere.com',
     'localhost',
     '127.0.0.1',
 ]
